@@ -1,0 +1,3 @@
+beautyName(String s){
+  
+}
